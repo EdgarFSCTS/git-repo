@@ -9,3 +9,6 @@
     Hola Mundo
 </body>
 </html>
+<?php 
+echo "hola todos";
+?>
