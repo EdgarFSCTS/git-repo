@@ -10,5 +10,5 @@
 </body>
 </html>
 <?php 
-echo "hola";
+echo "hola todos";
 ?>
